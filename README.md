@@ -12,6 +12,13 @@ and the runtime components the desktop app downloads on first start. It contains
 See [Releases](https://github.com/ismailakdag/antenlab-releases/releases). Each app release has a
 macOS (Apple silicon) `.dmg` and a Windows x64 `-setup.exe`, with their SHA-256 in `SHA256SUMS.txt`.
 
+## Feedback
+
+Found a problem or missing something? Open an issue:
+[report a problem](https://github.com/ismailakdag/antenlab-releases/issues/new?template=bug.yml) or
+[suggest a feature](https://github.com/ismailakdag/antenlab-releases/issues/new?template=feature.yml).
+The app's "Report a problem" link fills in the version and the operating system for you.
+
 ## Source code
 
 antenlab is free software under GPL-3.0-or-later. For at least three years after the release of any
